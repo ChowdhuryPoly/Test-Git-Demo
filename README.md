@@ -8,7 +8,7 @@ This repository will contain all information for our CloudOps Members
 1. Learn Linux
 2. Learn Git
 3. Package Management 
-4. Learn ALC
+4. Learn ALC (* Python, Go, NodeJS, PHP*)
 
 ## To-Do
 - Learn Shell Scripting
@@ -25,5 +25,5 @@ $ start.sh
 $ ls
 
 ```
-Members List
+## Members List
 1. Chowdhury Poly
